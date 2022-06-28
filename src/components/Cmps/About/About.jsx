@@ -38,7 +38,9 @@ const About = () => {
               <small>5+ Completados</small>
           </article>
         </div>
-        <p>Me llamo Victoria, y soy Fullstack Developer, pero me inclino mas al Front End. Descubri el mundo de la programacion recientemente hace dos años, y desde entonces decidi enfocarme 100% a esto, me di cuenta que es lo que mas me gusta, tengo muchas ganas de seguir aprendiendo y cada vez crecer mas!</p>
+        <p>Me llamo Victoria, soy Fullstack developer, pero me inclino mas al front end! 
+          Encontre en el mundo de la programacion lo que realmente me gustaba, y es por eso que decidi enforcarme 100% a esta carrera, hice un bootcamp intensivo donde me capacite, tengo muchas ganas de seguir aprendiendo y de crecer cada dia mas!
+        </p>
        <a href="#contact" className='btn btn-primary'>Contactame</a>
        </div>
        </div>

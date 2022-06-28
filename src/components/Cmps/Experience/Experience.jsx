@@ -3,6 +3,7 @@ import "../Experience/Experience.css"
 import CarritoVue from "../Experience/CarritoVue.png"
 import Rubrit from "../Experience/Rubrit.png"
 import FoodPi from "../Experience/FoodPi.png"
+import {AiFillGithub} from "react-icons/ai"
 
 const Experience = () => {
   return (
@@ -40,6 +41,8 @@ const Experience = () => {
         </div>
         </article>
       </div>
+      <a href="https://github.com/Vikycasal" className='btn1' target="_blank">Para ver mas de mis proyectos, o mas codigos podes mirar mi Github
+       <AiFillGithub />!</a>
     </section>
   )
 }
