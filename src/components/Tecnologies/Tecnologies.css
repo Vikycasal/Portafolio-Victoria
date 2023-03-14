@@ -36,8 +36,13 @@
 }
 
 .tecnologies__details-icon {
-    margin-top: 0.5rem;
+    margin-top: 0rem;
     color: var(--color-primary);
+    font-size: 2rem;
+}
+
+.tec_title {
+    font-size: 20px;
 }
 
 /* MEDIA QUERIES (TABLETS) */

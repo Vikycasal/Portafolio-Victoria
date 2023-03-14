@@ -30,15 +30,15 @@ const About = () => {
           <article className='about__card'>
               <FaAward  className='about__icon'/>
               <h5>Experiencia</h5>
-              <small>1+ Years Working</small>
+              <small>2+ Years Working</small>
           </article>
           <article className='about__card'>
               <AiFillFolderOpen  className='about__icon'/>
               <h5>Proyectos</h5>
-              <small>5+ Completados</small>
+              <small>14+ Completados</small>
           </article>
         </div>
-        <p>Me llamo Victoria, soy Fullstack developer, pero me inclino mas al front end! 
+        <p>Me llamo Victoria, soy Fullstack developer. 
           Encontre en el mundo de la programacion lo que realmente me gustaba, y es por eso que decidi enforcarme 100% a esta carrera, hice un bootcamp intensivo donde me capacite, tengo muchas ganas de seguir aprendiendo y de crecer cada dia mas!
         </p>
        <a href="#contact" className='btn btn-primary'>Contactame</a>

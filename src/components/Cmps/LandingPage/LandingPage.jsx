@@ -3,7 +3,6 @@ import "../LandingPage/LandingPage.css"
 import Botones from "./Botones";
 import Yo from "../Import/Yo.jpeg";
 import LandingSocial from "./LandingSocial";
-import Nav from "../Nav/Nav";
 
 export default function LandingPage () {
     return(
@@ -12,6 +11,7 @@ export default function LandingPage () {
              <h5>Hello I'm</h5>
              <h1>Victoria Casal</h1>
              <h5 className="text-light">FullStack Developer</h5>
+             <h5 className="text-light">📍 Argentina</h5>
              <Botones/>
              <LandingSocial />
              

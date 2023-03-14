@@ -9,11 +9,11 @@ const Tecnologies = () => {
   return (
     <section id="tecnologies">
        <h5>What Skills I have</h5>
-       <h2>Tecnologies</h2>
+       <h2>Tecnologias</h2>
 
        <div className='container tecnologies__container'>
          <div className='tecnologies__frontend'>
-           <h3>Frontend Development</h3>
+           <h3 className='tec_title'>Frontend Development</h3>
            <div className='tecnologies__content'>
              <article className="tecnologies__details">
               <AiFillHtml5 className='tecnologies__details-icon'/>

@@ -1,6 +1,6 @@
 import React from 'react';
-import Cvespañol from "../Import/Cvespañol.pdf";
-import Cvenglish from "../Import/Cvenglish.pdf";
+import Cvespañol from "../Import/CurVit2023.pdf";
+import Cvenglish from "../Import/CurVit2023Eng.pdf";
 
 const Botones = () => {
   return (
